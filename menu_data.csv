@@ -1,0 +1,22 @@
+Item,Category,Sales_Price,Cost_Price,Number_Sold
+Latte,Coffee,5.46,1.02,205
+Cappuccino,Coffee,5.33,0.8,81
+Flat White,Coffee,4.86,0.88,65
+Long Black,Coffee,5.83,0.95,257
+Espresso,Coffee,4.82,0.76,146
+Mocha,Coffee,6.4,1.36,123
+Iced Latte,Coffee,4.93,1.18,217
+Smashed Avo,Breakfast,24.92,8.55,55
+Big Brekky,Breakfast,18.57,4.7,78
+Eggs Benedict,Breakfast,20.79,7.1,96
+Bacon & Egg Roll,Breakfast,21.81,6.03,41
+Pancakes,Breakfast,19.29,6.43,75
+Acai Bowl,Breakfast,20.26,7.01,95
+Toastie,Breakfast,20.38,6.41,69
+Chicken Burger,Lunch,21.49,7.24,119
+Beef Burger,Lunch,21.9,6.55,22
+Caesar Salad,Lunch,26.22,8.12,78
+Fish & Chips,Lunch,23.94,7.6,61
+BLT,Lunch,28.26,9.31,107
+Steak Sandwich,Lunch,21.6,6.39,33
+Veggie Wrap,Lunch,28.11,9.48,80
