@@ -1,6 +1,8 @@
 # The Menu Engineer: Interactive Profitability Dashboard
 Author: April Williams
+
 Status: Active / Demo Ready
+
 Tech Stack: Python, Streamlit, Pandas, Plotly
 
 ## Overview
