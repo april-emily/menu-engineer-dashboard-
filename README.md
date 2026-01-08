@@ -38,7 +38,7 @@ requirements.txt: List of dependencies required to run the app.
 Clone this repository:
 
 git clone (https://github.com/april-emily/menu-engineer-dashboard-)
-cd menu-engineering-dashboard
+cd menu-engineering-dashboard-
 
 
 ## Install dependencies:
