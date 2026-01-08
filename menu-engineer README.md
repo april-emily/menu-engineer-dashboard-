@@ -32,8 +32,8 @@ Drawing on the classic "Menu Engineering" matrix, this dashboard visualises the 
 ## How to Run Locally
 
 1. Clone this repository:  
-   git clone \[https://github.com/your-username/menu-engineering-dashboard.git\](https://github.com/your-username/menu-engineering-dashboard.git)  
-   cd menu-engineering-dashboard
+   git clone (https://github.com/your-username/menu-engineering-dashboard.git)  
+   cd menu-engineering-dashboard-
 
 2. Install dependencies:  
    pip install \-r requirements.txt
