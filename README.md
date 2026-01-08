@@ -37,7 +37,7 @@ requirements.txt: List of dependencies required to run the app.
 ## How to Run Locally
 Clone this repository:
 
-git clone (https://github.com/april-emily/menu-engineer-dashboard-)
+git clone (https://github.com/april-emily/menu-engineer-dashboard-.git)
 cd menu-engineering-dashboard-
 
 
